@@ -1,4 +1,4 @@
-# Контроль температуры
+# ИУС (Измеритель удельного сопротивления)
 
 <div align="center">
 <img src="https://github.com/AlexandrIdVy/ius/blob/master/demo.PNG"> 
